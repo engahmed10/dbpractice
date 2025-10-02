@@ -25,7 +25,7 @@ import androidx.core.content.edit
 
 class MainActivity : AppCompatActivity() {
     private lateinit var ACCESS_TOKEN: String
-    private val appKey = "esuyk7q4dkqjdq5"
+    private val appKey = "Put Your own ApiKey from dropbox website"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
